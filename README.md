@@ -44,3 +44,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Steps to accomplish
+
+1.  Import the enclosed CSV file
+2.  Tabular representation of the data from the CSV file
+3.  Creation of new data records using the same schema
+4.  Processing of existing data records
+5.  Percentage representation of data records as a chart (bar or pie chart)
+6.  Export all data as a CSV file with the same scheme
